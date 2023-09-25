@@ -3,7 +3,7 @@
 Official repository of Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation (ICCV 2023)
 
 ![example](./assets/mainfig.gif)
-<img src="./assets/mainfig.gif" width="70%">
+<img src="./assets/mainfig.gif" width="70%" margin='auto'>
 
 ### [[Project Page]](https://hs-yn.github.io/DAPS)
 
